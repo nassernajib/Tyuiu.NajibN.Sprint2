@@ -29,11 +29,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.NajibN.Sprint2.Task2.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{8886BE7E-100B-497D-A14F-B5998736F119}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.NajibNSprint2.Task3.V25", "Tyuiu.NajibNSprint2.Task3.V25\Tyuiu.NajibNSprint2.Task3.V25.csproj", "{6F5EC6FF-30BC-4C27-A4A3-85FBF1D0D996}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.NajibN.Sprint2.Task3.V25", "Tyuiu.NajibNSprint2.Task3.V25\Tyuiu.NajibN.Sprint2.Task3.V25.csproj", "{6F5EC6FF-30BC-4C27-A4A3-85FBF1D0D996}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.NajibN.Sprint2.Task3.V25.Lib", "Tyuiu.NajibNSprint2.Task3.V25.Lib\Tyuiu.NajibN.Sprint2.Task3.V25.Lib.csproj", "{752FD345-C6B8-4A98-B859-E83AD68876DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.NajibNSprint2.Task3.V25.Test", "Tyuiu.NajibNSprint2.Task3.V25.Test\Tyuiu.NajibNSprint2.Task3.V25.Test.csproj", "{C2F212E1-920A-4005-9796-CAFB8F04617C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.NajibN.Sprint2.Task3.V25.Test", "Tyuiu.NajibNSprint2.Task3.V25.Test\Tyuiu.NajibN.Sprint2.Task3.V25.Test.csproj", "{C2F212E1-920A-4005-9796-CAFB8F04617C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
